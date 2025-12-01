@@ -101,7 +101,7 @@ def export_data(df, format_type):
     return None
 
 # Add a title and some information about the app
-st.title("Enhanced Streamlit Dashboard")
+st.title("Statistical Analysis Dashboard")
 st.markdown("An interactive data visualization application with advanced features.")
 
 # Sidebar for user inputs
